@@ -7,9 +7,13 @@
 
 ## 📚 Descrição
 
-No curso da [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science) você terá a chance de aprender não apenas a utilizar o Microsoft Power BI, mas aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python.
+No curso da [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science) você terá a chance
+de aprender não apenas a utilizar o Microsoft Power BI, mas aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python.
  
-Este curso vai mostrar a você os primeiros passos sobre como fazer a transição do Business Intelligence tradicional para as análises preditivas com Data Science e Machine Learning.
+Este curso vai mostrar a você os primeiros passos sobre como fazer a transição do Business Intelligence tradicional
+para as análises preditivas com Data Science e Machine Learning.
+
+  Conteúdo:
 
 - Módulo 01: Introdução;
 - Módulo 02: Primeiros Passos com o Microsoft Power BI;
