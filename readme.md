@@ -36,7 +36,7 @@ Este curso vai mostrar a você os primeiros passos sobre como fazer a transiçã
 
 ## 📜 Certificado
 
-🏅 Você pode visualizar o certificado de conclusão [clicando aqui](./certificado.pdf).
+🏅 Você pode visualizar o certificado de conclusão [clicando aqui](./Certificado.pdf).
 
 
 ## 🌐 Redes
